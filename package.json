@@ -7,10 +7,8 @@
         "url": "https://github.com/daffodilsw/AFBSource"
     },
     "dependencies": {
-        "NorthwindTestCase": "git+https://pawan-daffodil:pawan-1234@github.com/daffodilsw/NorthwindTestCase.git",
-        "AFB": "git+https://pawan-daffodil:pawan-1234@github.com/daffodilsw/AFB.git"
+        "NorthwindTestCase": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/NorthwindTestCase.git.git",
+        "AFB": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/AFB.git"
     }
 }
-
-
 
