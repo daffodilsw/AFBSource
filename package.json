@@ -9,7 +9,8 @@
     "dependencies": {
         "NorthwindTestCase": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/NorthwindTestCase.git",
         "AFB": "git+https://d2311242bfab57adf2b7b7892f9d2c0ceac0be39:x-oauth-basic@github.com/daffodilsw/AFB.git",
-        "pagerank":"1.2.0"
+        "pagerank":"1.2.0",
+        "requirejs": "2.1.14"
     }
 }
 
