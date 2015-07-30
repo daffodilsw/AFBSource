@@ -7,9 +7,9 @@
         "url": "https://github.com/daffodilsw/AFBSource"
     },
     "dependencies": {
-        "NorthwindTestCase": "git+https://b4fe225e56a1359f3a0353551b073fd1a328d47e:x-oauth-basic@github.com/daffodilsw/NorthwindTestCase.git",
-        "ApplaneFunctions": "git+https://b4fe225e56a1359f3a0353551b073fd1a328d47e:x-oauth-basic@github.com/daffodilsw/ApplaneFunctions.git",
-        "AFB": "git+https://b4fe225e56a1359f3a0353551b073fd1a328d47e:x-oauth-basic@github.com/daffodilsw/AFB.git",
-        "AFE": "git+https://b4fe225e56a1359f3a0353551b073fd1a328d47e:x-oauth-basic@github.com/daffodilsw/AFE.git"
+        "NorthwindTestCase": "*",
+        "ApplaneFunctions": "*",
+        "AFB": "*",
+        "AFE": "*"
     }
 }
